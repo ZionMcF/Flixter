@@ -16,7 +16,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
    - [x] (1pt) In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
    
 ### App Walkthough GIF
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/ZionMcF/Flixter/blob/master/walkthrough.gif" width=250><br>
+<img src="https://github.com/ZionMcF/Flixter/blob/master/walkthrough_landscape.gif" width=250><br>
 
 ## Flix Part 2
 
@@ -28,7 +29,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
 
 ### App Walkthough GIF
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/ZionMcF/Flixter/blob/master/walkthrough2.gif" width=250><br>
 
 ### Notes
 
